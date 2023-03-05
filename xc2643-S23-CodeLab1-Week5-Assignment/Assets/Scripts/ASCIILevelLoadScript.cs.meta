@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5290c00dbe42462d8f3ab878dcc447b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Fruit_0: {fileID: 2364687919912306516, guid: c817c11ca70284befb67d34facfe6566, type: 3}
+  - Fruit_1: {fileID: 2808848075318707749, guid: 1805383dd505c4e2498100254fcf9af7, type: 3}
+  - Fruit_2: {fileID: 8655710810523734210, guid: eb8492a7876ab43e0a7e4ca3d907747c, type: 3}
+  - Fruit_3: {fileID: 6509652325965743997, guid: 0ae75ef5d1ebb446b8f313c3b9954bf1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
